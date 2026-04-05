@@ -25,7 +25,7 @@ I'm a geophysicist, lecturer, and researcher working at the intersection of **ea
 
 ```python
   stack = {
-      "language": ["Python"],                                                                                                               
+      "language": ["Python", "R", "MatLab", "C#"],
       "geophysics": ["pyGIMLi", "ParaView", "HVSR methods"],
       "data_science": ["scikit-learn", "matplotlib", "pandas"],                                                                             
       "AI_tools": ["Claude", "Gemini", "NotebookLM"],                                                                                       
