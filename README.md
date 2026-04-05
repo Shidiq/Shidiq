@@ -53,7 +53,7 @@ Serious about manual coffee brewing. V60, Hario Switch, 1zpresso K-Ultra — ext
 
 **Connect**
 
-- Research & industry: affiliated with PT Nanosense Instrument Indonesia
+- Research & industry: affiliated with Geoseismal Reseach Center UGM
 - Notes & thinking: managed with Obsidian + Zettelkasten
 
 ---
@@ -73,18 +73,3 @@ A few things I intentionally included vs. excluded:
 - Badges/shields — they feel generic and you don't seem like that type
 - Excessive emojis
 - Long skills matrices — not your style based on how you write
-
-<!--
-**Shidiq/Shidiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
