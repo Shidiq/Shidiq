@@ -16,7 +16,7 @@ I'm a geophysicist, lecturer, and researcher working at the intersection of **ea
 
  - **Geophysics** — near-surface methods (ERT, HVSR, gravity, self-potential, DAS), petrophysics, and subsurface modelling
  - **Data Science for Geosciences** — machine learning, explainable AI, and signal processing applied to geophysical data
- - **Instrumentation** — sensor systems and applied measurement technology (PT Nanosense Instrument Indonesia)
+ - **Instrumentation** — sensor systems and applied measurement technology
  - **Teaching** — physics fundamentals, geophysics instrumentation, and computational methods at university level
 
 ---
@@ -25,12 +25,12 @@ I'm a geophysicist, lecturer, and researcher working at the intersection of **ea
 
 ```python
   stack = {
-      "language": ["Python"],                                                                                                                              
+      "language": ["Python"],                                                                                                               
       "geophysics": ["pyGIMLi", "ParaView", "HVSR methods"],
-      "data_science": ["scikit-learn", "matplotlib", "pandas"],                                                                                            
-      "AI_tools": ["Claude", "Gemini", "NotebookLM"],                                                                                                    
-      "PKM": ["Obsidian", "Zettelkasten"],                                                                                                                 
-      "OS": ["macOS"],                                                                                                                                   
+      "data_science": ["scikit-learn", "matplotlib", "pandas"],                                                                             
+      "AI_tools": ["Claude", "Gemini", "NotebookLM"],                                                                                       
+      "PKM": ["Obsidian", "Zettelkasten"],                                                                                                  
+      "OS": ["macOS"],                                                                                                                      
   }
 ```
 
@@ -65,7 +65,6 @@ A few things I intentionally included vs. excluded:
 - Your Bismillah opening (it's literally the first thing in your vault home)
 - Your motto "Ad Maiora Natus Sum" — it anchors your identity
 - The keynote quote (in Indonesian — it's authentic to you)
-- PT Nanosense as an affiliation
 - Coffee as a genuine personality trait, not filler
 - TRUST framework — it shows your depth with AI
 
